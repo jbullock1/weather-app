@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: sans-serif;
+	font-size: 1.2rem;
+}
+.container {
+	margin: auto;
+	text-align: center;
+	width: 30%;
+	background: #e1e1e1;
+	padding: 20px 0;
+	border-radius: 10px;
+	height: ;
+}
+.app-title {
+	padding-bottom: 10px;
+}
+.notification {
+	color: red;
+	background: #eee;
+	height: 20px;
+	padding-top: 10px;
+}
+.weather-container {
+	padding: 20px 0;
+	background: #eee;
+}
+.temperature-value {
+	font-size: 3.0rem;
+	cursor: pointer;
+	padding: 20px 0;
+}
+p {
+	margin: 0;
+}
+.location {
+	padding-top: 20px;
+}
